@@ -1,1 +1,1 @@
-Some text in my text file.
+Some text in my text file. New stuff added to the file.
